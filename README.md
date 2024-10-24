@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Hiruka-Jayanetti
 - 👀 I’m interested in Software engineering and Game developing
 - 🌱 I’m currently learning Java and SQL
-- 💞️ I’m looking to collaborate on nothing
+- 💞️ I’m still not looking to collaborate 
 - 📫 How to reach me -> by Linkedin and Reddit
 - 😄 Pronouns: I'm straight
 - ⚡ Fun fact: ...
